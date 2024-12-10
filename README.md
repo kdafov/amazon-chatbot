@@ -1,5 +1,7 @@
 # Amazon Customer Support Chatbot
 
+![image](https://github.com/user-attachments/assets/b964e804-b0f5-404b-8f4a-b9fe0164fced)
+
 This project implements a chatbot designed to assist users with common issues related to Amazon products, such as returns, delivery updates, warranties, and manuals. The chatbot is built with a **React frontend** and a **Python Flask backend** to ensure a seamless user experience.
 
 ---
